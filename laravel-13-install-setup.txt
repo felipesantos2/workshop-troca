@@ -3,3 +3,4 @@
     # publish assets
     # install boost
     # install rector
+    # install laravel blueprint

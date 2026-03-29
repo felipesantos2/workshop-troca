@@ -25,7 +25,7 @@
 ##### Commits Rules
     -> Always add commits in english, with semantic commit. Ex: feat: xxxx, chore: xxxx
 ##### Front End ==  Livewire 4
-    -> We're using LiveWire 4 alongside Alpine.js. I'll look into it—no plugins (jQuery) and pure JavaScript.
+    -> We're using LiveWire 4 alongside **Alpine.js**. I'll look into it—no plugins (jQuery) and pure JavaScript.
     -> For CSS, we're using the `tailwindcss` library, and that's your only option
 ##### Linting == Laravel Pint
     -> Always use `pint.json` for linting the code

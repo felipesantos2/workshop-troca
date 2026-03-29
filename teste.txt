@@ -1,0 +1,2 @@
+https://www.beekeeperstudio.io/tools/sql-syntax-checker
+https://runsql.com/r

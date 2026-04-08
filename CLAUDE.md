@@ -161,9 +161,9 @@ This project has domain-specific skills available. You MUST activate the relevan
 </laravel-boost-guidelines>
 
 
-<my-custom-guideline>
+<custom-rules>
+## Skills Activation
 
-### my custom guidelines
-    ./.ai/guidelines/php-laravel.md
-
-</my-custom-guideline>
+- `php-laravel` — Always use this if the user's message includes **"PHP or Laravel"** in any form. These are not the custom rules for this project.
+Custom rules, created without the use of any package and defined solely by the project owner, take precedence over any other rules. All of these rules will be located in the **"./ai/guidelines"** folder.
+</custom-rules>
